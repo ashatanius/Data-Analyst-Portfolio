@@ -1,2 +1,5 @@
-# Data-Analyst-Portfolio
-Data Analyst Portfolio after Yandex.Practicum course
+# Портфолио
+
+Курса "Аналитик данных" от Яндекс.Практикум.
+
+Исполнитель - Наталья Яковлева.
